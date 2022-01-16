@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi. I'm Hyunsung Kim, graduate school student in Sogang Univ., South Korea.
 
-- 👀 I'm currently studying about 3D human pose estimation network.
-     Goal is to increase the performance in terms of accuracy.
+- 👀 My research interest is in 3D human pose estimation.
+
+- 👀 Nowadays, studying about Weakly-Supervised Temporal Action Localization.
 
 - 📫 Contact me -> ghkskxlr@gmail.com
